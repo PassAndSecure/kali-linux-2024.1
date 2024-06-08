@@ -1,0 +1,6 @@
+SHA-256:
+fbadb7f33e59f21789599b5da4c47d34cbfddbed97b8103073a717e8b0e36784
+
+Vérifier l'intégrité de l'ISO :
+Sous Linux : sha256sum kali-linux-2024.1-installer-netinst-amd64.iso
+Sous Windows : CertUtil -hashfile kali-linux-2024.1-installer-netinst-amd64.iso SHA256
